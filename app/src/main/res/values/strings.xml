@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">trabMobile</string>
+    <string name="novo_contato">Novo Contato</string>
+    <string name="nome">Nome</string>
+    <string name="email">Email</string>
+    <string name="telefone">Telefone</string>
+    <string name="salvar">Salvar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="selecione_uma_imagem">Selecione uma imagem</string>
+    <string name="remover_imagem">Remover Imagem</string>
+    <string name="detalhes_do_contato">Detalhes do Contato</string>
+    <string name="editar">Editar</string>
+    <string name="voltar">Voltar</string>
+    <string name="excluir">Excluir</string>
+</resources>
